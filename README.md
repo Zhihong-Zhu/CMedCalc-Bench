@@ -244,8 +244,7 @@ We thank the communities and prior resources that inspired this work, including 
 
 For questions about the dataset or evaluation, please open an issue or contact the authors:
 
-- Yunyan Zhang, Zhihong Zhu<sup>†</sup>, Xian Wu<sup>*</sup>
-- Tencent Jarvis Lab
+- Yunyan Zhang<sup>†</sup>, Zhihong Zhu<sup>†</sup>, Xian Wu<sup>*</sup>
 - `{yunyanzhang, profzhu, kevinxwu}@tencent.com`
 
 <sup>†</sup> Equal contribution &nbsp;&nbsp; <sup>*</sup> Corresponding author
